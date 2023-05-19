@@ -4,6 +4,12 @@ function buttonClick()
 
 }
 
+function buttonClick2()
+{
+    document.getElementById("boxtext").style.fontSize = "10pt";
+
+}
+
 function fancy()
 {
     document.getElementById("boxtext").style.fontWeight = "bold";
